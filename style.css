@@ -108,3 +108,9 @@ section{
 .footer-para{
     color: white;
 }
+.bord{
+    border-left: tomato solid 3px;
+}
+.red{
+    margin-right: 20px;
+}
