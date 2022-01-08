@@ -1,0 +1,110 @@
+h1{
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 50px;
+}
+h2{
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 25px; 
+    font-weight: bolder;
+}
+.mission{
+    color: #4f7741;
+}
+.clincher{
+    font-size:20px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half{
+    width: 50%;
+    padding-left: 50px;
+}
+.half img{
+    width: 85%;
+}
+.button{
+    text-decoration: none;
+    color:azure;
+    background-color: black;
+    padding: 15px 30px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.blank{
+    padding-bottom: 20px;
+    color: white;
+}
+.one-third{
+    width: 50%;
+    padding-left: 50px;
+}
+.one-third img{
+    width: 85%;
+}
+.one{
+    padding: 50px;
+}
+.coding{
+    font-size: 16px;
+    padding: 4px;
+}
+.two-third{
+    width: 65%;
+    padding-left: 50px;
+}
+.project{
+    width: 35%;
+}
+.three img{
+    width: 70%;
+}
+#middle{
+    text-align: center;
+}
+#corona{
+    color: #4f7741;
+} 
+.half-app img{
+    width:70%;
+}
+.flexible{
+    display: flex;
+    margin-left: 50px;
+}
+.flexible img{
+    width:30%;
+}
+.quarter{
+    width: 50%;
+    padding-left: 30px;
+    border-radius: 7px;
+    padding: 15px;
+    margin: 10px;
+}
+.quarter-one{
+    background-color: rgb(241, 212, 174);
+    border: burlywood;
+}
+.quarter-two{
+    background-color: rgb(235, 215, 139);
+    border: cornsilk;
+}
+.quarter-three{
+    background-color: rgb(216, 210, 210);
+    border: lightgray;
+}
+#cyan{
+    color: cyan;
+}
+.footer{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(131, 128, 128);
+}
+.footer-para{
+    color: white;
+}
